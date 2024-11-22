@@ -38,6 +38,38 @@ The Titanic dataset provides key details about passengers, such as class, age, s
 4. **Visualization**: The insights were visualized using Tableau and Power BI for an interactive user experience.
 5. **Dashboard Creation**: Power BI and Tableau dashboards were developed to present the findings in a user-friendly way.
 
+## Goal
+
+The goal of this project is to examine if the survival rate had anything to do with the passenger class aboard the Titanic. Additionally, the analysis seeks to assess the age of passengers within each class to identify vulnerable age categories and determine how these factors affected the chances of survival.
+
+## Assessment
+
+The data analytics dashboard reveals significant differences in survival rates among various passenger classes on the Titanic. When examining survival percentages, a substantial disparity is evident. First-class passengers had almost three times the survival rate compared to third-class passengers. This highlights the importance of analyzing survival percentages rather than merely the total number of survivors.
+
+- **First-Class Passengers**: The survival rate for first-class passengers is approximately 60%. When considering the percentage of survivors within each class, the rate is notably higher, emphasizing the critical need to differentiate between overall survival rates and class-specific survival percentages.
+  
+- **Age Impact on Survival**: Age also played a significant role in survival outcomes. Second-class children had a 100% survival rate, compared to 80% for first-class and 40% for third-class children. 
+- No seniors survived in the second and third classes, while only 17% (one individual) survived in the first class. It is essential to conduct a deeper statistical analysis for the first-class result to determine if this survival rate among seniors is statistically significant or due to chance.
+
+## Key Insights
+
+- **Passenger Class Disparity**: A substantial disparity exists in the survival rates among different passenger classes. First-class passengers had significantly better survival chances compared to third-class passengers.
+  
+- **Vulnerable Age Groups**: Age proved to be a critical factor in determining survival. Vulnerable groups such as children and seniors were affected differently depending on the passenger class.
+
+## Recommendations
+
+- **Minimize Class Disparity**: Focus on minimizing the survival disparity between passenger classes through better emergency preparedness and accessibility measures.
+  
+- **Emergency Accessibility Measures**: Investigate accessibility measures to ensure that all age categories, regardless of class, have equitable opportunities for survival during an emergency.
+
+- **Further Statistical Analysis**: Use the insights from this analysis to conduct deeper statistical analysis that will inform the design of ships to ensure more equitable safety protocols across all passenger classes and age categories.
+
+## Next Steps
+
+- Perform further analysis to confirm the statistical significance of the findings, especially the survival rate among seniors in first class.
+- Explore how emergency accessibility measures could improve survival rates across all passenger classes and age groups.
+
 ## How to Run the Project
 
 1. Download the dataset and run the SQL queries in your preferred SQL environment (e.g., SQL Server, MySQL, or PostgreSQL).
@@ -48,7 +80,3 @@ The Titanic dataset provides key details about passengers, such as class, age, s
 - Perform a deeper statistical analysis to determine the significance of survival rates in different passenger categories.
 - Investigate emergency accessibility measures that could have minimized the survival disparities between passenger classes.
 - Conduct simulations or build predictive models to forecast survival probabilities based on passenger features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
