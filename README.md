@@ -75,8 +75,10 @@ The data analytics dashboard reveals significant differences in survival rates a
 1. Download the dataset and run the SQL queries in your preferred SQL environment (e.g., SQL Server, MySQL, or PostgreSQL).
 2. Use the provided Tableau and Power BI links to view the dashboards.
 
-## Future Improvements
+## Conclusion
 
-- Perform a deeper statistical analysis to determine the significance of survival rates in different passenger categories.
-- Investigate emergency accessibility measures that could have minimized the survival disparities between passenger classes.
-- Conduct simulations or build predictive models to forecast survival probabilities based on passenger features.
+The Titanic Survival Analysis project provides valuable insights into how passenger class, age, gender, and other factors influenced survival rates during the disaster. Through SQL queries and data visualizations in Tableau and Power BI, we identified significant disparities in survival rates across different passenger classes, with first-class passengers having the highest survival rates. Age played a crucial role, as children in second-class had a 100% survival rate, while seniors had the lowest survival rates, especially in third-class. 
+
+The analysis highlights the need for further statistical studies to examine factors such as the impact of gender, the effects of lifeboat accessibility, and the relationship between class and emergency response. The findings suggest that the Titanic tragedy could have been mitigated with more equitable safety measures and better evacuation protocols, particularly for vulnerable age groups and lower-class passengers. 
+
+Ultimately, this project demonstrates the importance of data analysis in understanding historical events and can serve as a foundation for designing future systems that prioritize safety and equity for all individuals, regardless of their status or age.
