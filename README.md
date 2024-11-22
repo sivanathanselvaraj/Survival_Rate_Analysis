@@ -28,7 +28,7 @@ The Titanic dataset provides key details about passengers, such as class, age, s
 ## Files and Links
 
 - **Tableau Dashboard**: [[Link to Tableau Dashboard](https://public.tableau.com/views/TITANICI_TABLEAUDASHBOARD/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
-- **Power BI Dashboard**: [[Link to Power BI Dashboard](https://drive.google.com/file/d/1VvNQIyEhlOEzksRAlr533NSSEj0pZYWs/view?usp=sharing)]
+- **Power BI Dashboard**: [[Link to Power BI Dashboard](https://drive.google.com/file/d/1WwwgLoHHD0FbENjD7L2pAwN-O_R3HRDu/view?usp=drive_link)]
 
 ## Steps Involved
 
